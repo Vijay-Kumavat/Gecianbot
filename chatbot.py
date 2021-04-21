@@ -1,9 +1,14 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
+import spacy
+spacy.load('en_core_web_sm')
+# from spacy.lang.en import English
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
 # Creating ChatBot Instance
 chatbot = ChatBot('GecianBot')
+
+# nlp = spacy.load("en_core_web_sm")
 
 chatbot = ChatBot(
     'ChatBot for College Enquiry',
