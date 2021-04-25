@@ -20,6 +20,7 @@ recaptcha.init_app(app)
 
 app.config['SECRET_KEY'] = 'cairocoders-ednalan'
 
+#database connectivity
 conn=mysql.connector.connect(host='localhost',port='3306',user='root',password='1234',database='register')
 cur=conn.cursor()
 
