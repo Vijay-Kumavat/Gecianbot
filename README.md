@@ -3,7 +3,9 @@ The College bot project is built using machine learning algorithms that analyse 
 
 # Images:  
 ![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Screenshot%20(199).png)
-![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Screenshot%20(195).png)
-![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Screenshot%20(196).png)
-![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Screenshot%20(197).png)
-![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Screenshot%20(198).png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Register%20Form.png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Login%20Form.png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Google.reCaptcha.png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Gecianbot.png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Gecianbot%20(1).png)
+![Alt Text](https://github.com/Kumavat-Vijay/Gecianbot/blob/master/Images_ss/Gecianbot%20(2).png)
